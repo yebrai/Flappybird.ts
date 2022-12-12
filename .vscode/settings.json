@@ -1,7 +1,0 @@
-{
-    "eslint.alwaysShowStatus": true,
-    "eslint.run": "onSave",
-    "eslint.workingDirectories": [
-    
-    ]
-}
